@@ -30,7 +30,7 @@
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "eslint-config-prettier": "^8.8.0",
+    "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^4.2.1",
     "google-sheet-cli": "^2.2.0",
     "google-spreadsheet": "^3.3.0",
